@@ -14,8 +14,8 @@ namespace CSV_class_maker
     {
 
         const string ZNAKIDOUSUNIECIA = "()'";
-        const string ZNAKIDOZAMIANY = "-.";
-        const char ZNAKZMIANA = '_'; //czyli na jaki znak będzie zamieniamy znak z ZNAKIDOZAMIENIENIA
+        const string ZNAKIDOZAMIANY = "-./";
+        const char ZNAKZMIANA = ' '; //czyli na jaki znak będzie zamieniamy znak z ZNAKIDOZAMIENIENIA
 
 
         private string nazwaPola = "";
